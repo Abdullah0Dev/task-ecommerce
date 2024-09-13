@@ -1,7 +1,7 @@
 # 🚀 **Task01 App**
 
 <div align="center">
-      <img src="https://github.com/user-attachments/assets/2afc2dc3-f840-4d98-9378-f34acd7df173" alt="Project Banner">
+      <img src="https://github.com/user-attachments/assets/6b24aeb9-4534-42e4-ba2f-131bf0652009" alt="Project Banner">
 
   <div>
      <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="reactnative" />
