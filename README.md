@@ -1,7 +1,7 @@
 # 🚀 **Task01 App**
 
 <div align="center">
-  <img src="https://i.ibb.co/hfCfV54/task01.png" alt="App Preview" width="500" />
+  <img src="https://i.postimg.cc/Rhw4FNzW/task01.png" alt="App Preview" width="500" />
 </div>
 
 Welcome to **Task01 App**, a mobile app built with React Native for both **iOS** and **Android**. This README will guide you through the setup process, requirements, and key features of the app. ✨
