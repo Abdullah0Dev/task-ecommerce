@@ -1,21 +1,21 @@
 # 🚀 **Task01 App**
 
 <div align="center">
- 
-   .
       <img src="https://github.com/user-attachments/assets/2afc2dc3-f840-4d98-9378-f34acd7df173" alt="Project Banner">
 
   <div>
-    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
-    <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+     <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="reactnative" />
+       <img src="https://img.shields.io/badge/-Redux-black?style=for-the-badge&logoColor=white&logo=redux&color=764ABC" alt="redux" />
+    <img src="https://img.shields.io/badge/-Redux_Toolkit-black?style=for-the-badge&logoColor=white&logo=redux&color=764ABC" alt="reduxtoolkit" />
+    <img src="https://img.shields.io/badge/-React_Hooks-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="reacthooks" />
+  
   </div>
 
   <h3 align="center">An Ecommerce App Task...</h3>
 
    <div align="center">
      
-Welcome to **Task01 App**, a mobile app built with React Native for both **iOS** and **Android**. This README will guide you through the setup process, requirements, and key features of the app. ✨
+A mobile app built with React Native for both **iOS** and **Android**. This README will guide you through the setup process, requirements, and key features of the app. ✨
     </div>
 </div>
 
